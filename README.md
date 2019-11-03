@@ -12,4 +12,4 @@ to install
 pacman -U spotify-web-shortcut-1.0.0-1-any.pkg.tar.xz
 ```
 
-This project is a modification of another project called [Spotify-Web-Player-for-Linux](https://github.com/Quacky2200/Spotify-Web-Player-for-Linux/releases) by [Quacky2200](https://github.com/Quacky2200">Quacky2200)
+This project is a modification of another project called [Spotify-Web-Player-for-Linux](https://github.com/Quacky2200/Spotify-Web-Player-for-Linux/releases) by [Quacky2200](https://github.com/Quacky2200)
