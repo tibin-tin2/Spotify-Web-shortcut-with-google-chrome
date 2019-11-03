@@ -2,7 +2,6 @@
 This is a linux app that launches spotify webapp player. It uses google chrome stable as the app host.
 
 ![GitHub Logo](/.images/spotify.png)
-Format: ![Alt Text](url)
 
 I currently test it in the ARCh based Linux . I'm not sure for other linux distros.
 
