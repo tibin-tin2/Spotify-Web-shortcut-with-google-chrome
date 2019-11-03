@@ -7,6 +7,7 @@ I currently test it in the ARCh based Linux . I'm not sure for other linux distr
 
 to install 
 
+**_for arch based linux_**
 ```
 pacman -U spotify-web-shortcut-1.0.0-1-any.pkg.tar.xz
 ```
